@@ -1,5 +1,4 @@
 # E-L-E-C-T-R-O-N-I-C-S-. 
-
 Make basic gates using TTL logic.
 # 1.OR GATE USING NPN TRANSISTOR
 made a basic OR gate connection using npn transistor on tinker cad
