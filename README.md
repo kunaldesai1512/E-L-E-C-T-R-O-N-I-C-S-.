@@ -12,8 +12,6 @@ made a basic NAND gate connection using npn transistor on tinker cad
 # 4.NOR GATE USING NPN TRANSISTOR
 made a basic NOR gate connection using npn transistor on tinker cad
 ![Screenshot (85)](https://github.com/kunaldesai1512/E-L-E-C-T-R-O-N-I-C-S-./assets/123637561/91cd3749-f757-459f-b8c9-05c50b24dd72)
-
  # Driving an N-channel MOSFET
 Driving an N-channel MOSFET (Metal-Oxide-Semiconductor Field-Effect Transistor) properly is essential to ensure it operates efficiently and safely in electronic circuits. N-channel MOSFETs are commonly used as switches in many applications due to their low ON resistance and fast switching characteristics
-
 ![Screenshot (86)](https://github.com/kunaldesai1512/E-L-E-C-T-R-O-N-I-C-S-./assets/123637561/336bd9dd-573a-4dab-b050-aae9cfec83be)
